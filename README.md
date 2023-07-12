@@ -1,4 +1,10 @@
-# Google Cloud IoT JWT
+# Clearblade IoT JWT
+
+> This repository has been copied from Google Cloud's IoT Core Arduino repository and
+> been modified for use with Clearblade IoT, a direct GCP IoT Core alternative. Intentions
+> are to keep this library expanding and working correctly with Clearblade IoT Core
+> as an easy way to work with IoT Projects in the Arduino Environment.
+
 
 This is an example of how to generate JSON Web Token (JWT) credentials for
 connecting to Google Cloud IoT Core.
